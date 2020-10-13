@@ -1,9 +1,10 @@
-class Test
 
-  attr_reader :name
 
-  def initialize(name)
-    @name = name
+class Test 
+
+  def initialize
+
+
   end
 
 end
